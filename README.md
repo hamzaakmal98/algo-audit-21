@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hamzaakmal98/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hamzaakmal98/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hamzaakmal98/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/hamzaakmal98/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hamzaakmal98/DSA/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/hamzaakmal98/DSA/tree/master/0948-sort-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/hamzaakmal98/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/hamzaakmal98/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/hamzaakmal98/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hamzaakmal98/DSA/tree/master/0817-design-hashmap) |
 ## String
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hamzaakmal98/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hamzaakmal98/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/hamzaakmal98/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/hamzaakmal98/DSA/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -38,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hamzaakmal98/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/hamzaakmal98/DSA/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hamzaakmal98/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -61,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/hamzaakmal98/DSA/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -69,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/hamzaakmal98/DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -78,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/hamzaakmal98/DSA/tree/master/0948-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
