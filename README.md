@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hamzaakmal98/DSA/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/hamzaakmal98/DSA/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/hamzaakmal98/DSA/tree/master/0198-house-robber) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hamzaakmal98/DSA/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/hamzaakmal98/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
