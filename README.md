@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/hamzaakmal98/DSA/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/hamzaakmal98/DSA/tree/master/0412-fizz-buzz) |
+| [1714-rearrange-spaces-between-words](https://github.com/hamzaakmal98/DSA/tree/master/1714-rearrange-spaces-between-words) |
 ## Sorting
 |  |
 | ------- |
