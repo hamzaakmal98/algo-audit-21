@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/hamzaakmal98/DSA/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/hamzaakmal98/DSA/tree/master/0948-sort-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hamzaakmal98/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2386-min-max-game](https://github.com/hamzaakmal98/DSA/tree/master/2386-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/hamzaakmal98/DSA/tree/master/0412-fizz-buzz) |
+| [2386-min-max-game](https://github.com/hamzaakmal98/DSA/tree/master/2386-min-max-game) |
 <!---LeetCode Topics End-->
