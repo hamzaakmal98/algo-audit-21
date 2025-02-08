@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/hamzaakmal98/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hamzaakmal98/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/hamzaakmal98/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0782-jewels-and-stones](https://github.com/hamzaakmal98/DSA/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/hamzaakmal98/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hamzaakmal98/DSA/tree/master/0817-design-hashmap) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hamzaakmal98/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/hamzaakmal98/DSA/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/hamzaakmal98/DSA/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/hamzaakmal98/DSA/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/hamzaakmal98/DSA/tree/master/1205-defanging-an-ip-address) |
 | [1714-rearrange-spaces-between-words](https://github.com/hamzaakmal98/DSA/tree/master/1714-rearrange-spaces-between-words) |
 ## Sorting
