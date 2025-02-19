@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/hamzaakmal98/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2386-min-max-game](https://github.com/hamzaakmal98/DSA/tree/master/2386-min-max-game) |
 | [3194-find-words-containing-character](https://github.com/hamzaakmal98/DSA/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/hamzaakmal98/DSA/tree/master/3221-find-the-peaks) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hamzaakmal98/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hamzaakmal98/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/hamzaakmal98/DSA/tree/master/0412-fizz-buzz) |
 | [2386-min-max-game](https://github.com/hamzaakmal98/DSA/tree/master/2386-min-max-game) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/hamzaakmal98/DSA/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
