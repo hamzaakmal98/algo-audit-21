@@ -152,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/hamzaakmal98/DSA/tree/master/3221-find-the-peaks) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/hamzaakmal98/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/hamzaakmal98/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
