@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/hamzaakmal98/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/hamzaakmal98/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/hamzaakmal98/DSA/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/hamzaakmal98/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/hamzaakmal98/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/hamzaakmal98/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/hamzaakmal98/DSA/tree/master/0198-house-robber) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/hamzaakmal98/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/hamzaakmal98/DSA/tree/master/0198-house-robber) |
 ## Math
 |  |
