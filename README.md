@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/hamzaakmal98/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2386-min-max-game](https://github.com/hamzaakmal98/DSA/tree/master/2386-min-max-game) |
 | [3194-find-words-containing-character](https://github.com/hamzaakmal98/DSA/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/hamzaakmal98/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3221-find-the-peaks](https://github.com/hamzaakmal98/DSA/tree/master/3221-find-the-peaks) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hamzaakmal98/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hamzaakmal98/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/hamzaakmal98/DSA/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/hamzaakmal98/DSA/tree/master/0817-design-hashmap) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hamzaakmal98/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/hamzaakmal98/DSA/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/hamzaakmal98/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
